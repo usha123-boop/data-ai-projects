@@ -1,0 +1,201 @@
+order_id,customer_name,product,category,quantity,unit_price,total_amount,order_date,region,status
+ORD-0001,Ella Hall,4K Monitor,Electronics,1,399.00,399.00,2024-03-03,South,completed
+ORD-0002,Emma Davis,Smartphone X,Electronics,5,943.95,4719.75,2024-01-09,North,completed
+ORD-0003,Isabella Garcia,Laptop Pro 14,Electronics,5,1299.00,6495.00,2024-06-15,West,completed
+ORD-0004,Abigail Lewis,Organic Coffee Beans,Food,1,18.00,18.00,2024-06-27,West,completed
+ORD-0005,Olivia Brown,Cotton T-Shirt,Clothing,3,27.55,82.65,2024-01-24,West,completed
+ORD-0006,Sebastian Baker,Artisan Chocolate Box,Food,5,22.00,110.00,2024-01-12,West,completed
+ORD-0007,Jack Nelson,Data Engineering 101,Books,1,46.20,46.20,2024-03-16,East,completed
+ORD-0008,Scarlett Young,Smartphone X,Electronics,1,899.00,899.00,2024-03-15,North,pending
+ORD-0009,Sebastian Baker,4K Monitor,Electronics,4,399.00,1596.00,2024-04-26,East,completed
+ORD-0010,Amelia Taylor,Cotton T-Shirt,Clothing,6,29.00,174.00,2024-06-28,North,completed
+ORD-0011,Sophia Wilson,Winter Hoodie,Clothing,2,61.95,123.90,2024-04-07,East,refunded
+ORD-0012,Ella Hall,Winter Hoodie,Clothing,6,59.00,354.00,2024-01-15,South,pending
+ORD-0013,Logan Scott,Olive Oil Bottle,Food,4,16.00,64.00,2024-01-17,South,refunded
+ORD-0014,Abigail Lewis,Olive Oil Bottle,Food,2,16.80,33.60,2024-04-11,West,completed
+ORD-0015,Olivia Brown,Winter Hoodie,Clothing,6,64.90,389.40,2024-05-17,East,pending
+ORD-0016,Elijah White,Data Engineering 101,Books,3,42.00,126.00,2024-02-05,West,completed
+ORD-0017,Liam Chen,4K Monitor,Electronics,2,399.00,798.00,2024-06-23,West,completed
+ORD-0018,Harper Jackson,Data Engineering 101,Books,5,44.10,220.50,2024-05-15,East,refunded
+ORD-0019,Sebastian Baker,Laptop Pro 14,Electronics,6,1234.05,7404.30,2024-06-23,East,pending
+ORD-0020,Ethan Moore,4K Monitor,Electronics,3,418.95,1256.85,2024-02-10,West,completed
+ORD-0021,Daniel King,Organic Coffee Beans,Food,5,18.00,90.00,2024-05-09,North,pending
+ORD-0022,Mia Thomas,Cotton T-Shirt,Clothing,2,29.00,58.00,2024-02-11,North,completed
+ORD-0023,James Martin,Laptop Pro 14,Electronics,1,1299.00,1299.00,2024-03-19,South,completed
+ORD-0024,Chloe Adams,Smartphone X,Electronics,1,943.95,943.95,2024-01-18,South,completed
+ORD-0025,James Martin,Running Shoes,Clothing,3,130.90,392.70,2024-06-04,West,refunded
+ORD-0026,Jack Nelson,Cotton T-Shirt,Clothing,6,29.00,174.00,2024-04-12,East,completed
+ORD-0027,Evelyn Thompson,AI Product Playbook,Books,1,48.00,48.00,2024-02-27,North,completed
+ORD-0028,Abigail Lewis,Winter Hoodie,Clothing,5,59.00,295.00,2024-01-02,North,completed
+ORD-0029,Liam Chen,Winter Hoodie,Clothing,1,56.05,56.05,2024-03-25,North,completed
+ORD-0030,Lucas Anderson,Cloud Analytics Guide,Books,2,56.10,112.20,2024-02-03,West,completed
+ORD-0031,James Martin,Modern SQL Cookbook,Books,2,52.25,104.50,2024-01-25,West,completed
+ORD-0032,Elijah White,AI Product Playbook,Books,6,45.60,273.60,2024-06-21,North,completed
+ORD-0033,Daniel King,Olive Oil Bottle,Food,1,16.00,16.00,2024-02-19,South,completed
+ORD-0034,Olivia Brown,Modern SQL Cookbook,Books,2,55.00,110.00,2024-04-28,South,pending
+ORD-0035,Noah Johnson,AI Product Playbook,Books,5,45.60,228.00,2024-01-13,North,refunded
+ORD-0036,Jack Nelson,Winter Hoodie,Clothing,2,61.95,123.90,2024-05-04,West,completed
+ORD-0037,Harper Jackson,Wireless Earbuds,Electronics,2,156.45,312.90,2024-01-01,West,completed
+ORD-0038,Logan Scott,AI Product Playbook,Books,3,50.40,151.20,2024-06-27,West,completed
+ORD-0039,Mia Thomas,Cotton T-Shirt,Clothing,1,31.90,31.90,2024-05-18,North,pending
+ORD-0040,Liam Chen,Wireless Earbuds,Electronics,5,156.45,782.25,2024-05-08,South,completed
+ORD-0041,Evelyn Thompson,Smartphone X,Electronics,2,854.05,1708.10,2024-06-01,North,completed
+ORD-0042,Isabella Garcia,Data Engineering 101,Books,1,46.20,46.20,2024-03-04,North,completed
+ORD-0043,Elijah White,Olive Oil Bottle,Food,3,16.00,48.00,2024-06-20,East,completed
+ORD-0044,Harper Jackson,Denim Jacket,Clothing,6,89.00,534.00,2024-04-27,East,refunded
+ORD-0045,Jack Nelson,Smartphone X,Electronics,1,943.95,943.95,2024-06-08,North,completed
+ORD-0046,Mason Martinez,Organic Coffee Beans,Food,2,18.00,36.00,2024-01-18,South,completed
+ORD-0047,Sophia Wilson,AI Product Playbook,Books,5,48.00,240.00,2024-06-05,North,completed
+ORD-0048,Benjamin Clark,Protein Bars Pack,Food,6,22.80,136.80,2024-02-04,East,completed
+ORD-0049,Emma Davis,Denim Jacket,Clothing,3,89.00,267.00,2024-06-03,South,completed
+ORD-0050,Mason Martinez,Organic Coffee Beans,Food,5,18.90,94.50,2024-03-05,North,completed
+ORD-0051,Elijah White,Organic Coffee Beans,Food,1,17.10,17.10,2024-03-26,South,completed
+ORD-0052,Lucas Anderson,Running Shoes,Clothing,6,124.95,749.70,2024-05-21,West,completed
+ORD-0053,Emma Davis,Smartphone X,Electronics,6,899.00,5394.00,2024-05-19,North,pending
+ORD-0054,Abigail Lewis,Denim Jacket,Clothing,4,89.00,356.00,2024-01-11,East,completed
+ORD-0055,Jack Nelson,Wireless Earbuds,Electronics,3,149.00,447.00,2024-06-23,South,completed
+ORD-0056,Amelia Taylor,Modern SQL Cookbook,Books,5,55.00,275.00,2024-03-01,South,refunded
+ORD-0057,Logan Scott,Running Shoes,Clothing,4,113.05,452.20,2024-02-15,East,pending
+ORD-0058,Elijah White,Winter Hoodie,Clothing,3,59.00,177.00,2024-06-28,North,completed
+ORD-0059,Liam Chen,Cloud Analytics Guide,Books,2,51.00,102.00,2024-04-27,East,completed
+ORD-0060,Logan Scott,Winter Hoodie,Clothing,2,56.05,112.10,2024-06-17,South,completed
+ORD-0061,Lucas Anderson,Smartphone X,Electronics,3,899.00,2697.00,2024-06-13,West,completed
+ORD-0062,Aria Green,Olive Oil Bottle,Food,1,15.20,15.20,2024-03-07,South,completed
+ORD-0063,Lucas Anderson,Wireless Earbuds,Electronics,1,163.90,163.90,2024-04-21,East,pending
+ORD-0064,Ethan Moore,Modern SQL Cookbook,Books,5,60.50,302.50,2024-01-30,West,pending
+ORD-0065,Mason Martinez,Organic Coffee Beans,Food,1,18.90,18.90,2024-01-01,South,completed
+ORD-0066,Noah Johnson,Olive Oil Bottle,Food,5,16.00,80.00,2024-06-18,North,completed
+ORD-0067,Mia Thomas,Protein Bars Pack,Food,6,25.20,151.20,2024-03-24,West,completed
+ORD-0068,Benjamin Clark,Denim Jacket,Clothing,2,93.45,186.90,2024-06-19,West,completed
+ORD-0069,Chloe Adams,Running Shoes,Clothing,5,130.90,654.50,2024-03-18,West,completed
+ORD-0070,Ava Patel,Protein Bars Pack,Food,3,24.00,72.00,2024-04-20,East,completed
+ORD-0071,Charlotte Harris,Cotton T-Shirt,Clothing,5,30.45,152.25,2024-02-13,North,completed
+ORD-0072,Michael Allen,Olive Oil Bottle,Food,1,16.00,16.00,2024-06-21,East,completed
+ORD-0073,Mason Martinez,Denim Jacket,Clothing,1,84.55,84.55,2024-03-03,West,completed
+ORD-0074,Grace Wright,Smartphone X,Electronics,4,943.95,3775.80,2024-06-10,South,completed
+ORD-0075,Harper Jackson,Cloud Analytics Guide,Books,4,51.00,204.00,2024-02-07,North,pending
+ORD-0076,Sebastian Baker,4K Monitor,Electronics,4,399.00,1596.00,2024-02-15,West,completed
+ORD-0077,Isabella Garcia,4K Monitor,Electronics,4,399.00,1596.00,2024-04-28,East,refunded
+ORD-0078,Chloe Adams,AI Product Playbook,Books,5,52.80,264.00,2024-04-19,West,pending
+ORD-0079,Daniel King,Cloud Analytics Guide,Books,4,51.00,204.00,2024-03-04,East,pending
+ORD-0080,Evelyn Thompson,Cloud Analytics Guide,Books,6,51.00,306.00,2024-03-11,West,completed
+ORD-0081,Mia Thomas,Winter Hoodie,Clothing,3,59.00,177.00,2024-03-22,North,completed
+ORD-0082,Isabella Garcia,Data Engineering 101,Books,6,42.00,252.00,2024-06-29,South,completed
+ORD-0083,Elijah White,Olive Oil Bottle,Food,5,16.80,84.00,2024-04-16,North,completed
+ORD-0084,Elijah White,Data Engineering 101,Books,5,39.90,199.50,2024-05-27,West,completed
+ORD-0085,Amelia Taylor,Protein Bars Pack,Food,4,25.20,100.80,2024-05-17,South,completed
+ORD-0086,Lucas Anderson,Modern SQL Cookbook,Books,4,52.25,209.00,2024-04-09,East,completed
+ORD-0087,Logan Scott,Data Engineering 101,Books,6,42.00,252.00,2024-04-29,South,refunded
+ORD-0088,Benjamin Clark,Laptop Pro 14,Electronics,4,1428.90,5715.60,2024-05-24,North,completed
+ORD-0089,Elijah White,Denim Jacket,Clothing,4,89.00,356.00,2024-01-13,East,completed
+ORD-0090,Mason Martinez,AI Product Playbook,Books,3,48.00,144.00,2024-04-07,East,pending
+ORD-0091,Aria Green,Modern SQL Cookbook,Books,3,52.25,156.75,2024-04-30,North,pending
+ORD-0092,Liam Chen,Artisan Chocolate Box,Food,2,20.90,41.80,2024-06-15,North,pending
+ORD-0093,Isabella Garcia,Cotton T-Shirt,Clothing,1,31.90,31.90,2024-02-09,South,completed
+ORD-0094,Michael Allen,4K Monitor,Electronics,5,399.00,1995.00,2024-04-29,East,pending
+ORD-0095,Sophia Wilson,4K Monitor,Electronics,2,399.00,798.00,2024-01-28,North,refunded
+ORD-0096,Abigail Lewis,Data Engineering 101,Books,4,42.00,168.00,2024-01-20,South,completed
+ORD-0097,Grace Wright,Protein Bars Pack,Food,6,26.40,158.40,2024-01-31,North,completed
+ORD-0098,Elijah White,Artisan Chocolate Box,Food,1,24.20,24.20,2024-06-14,East,completed
+ORD-0099,Elijah White,Cloud Analytics Guide,Books,1,53.55,53.55,2024-04-02,West,completed
+ORD-0100,Elijah White,Running Shoes,Clothing,6,130.90,785.40,2024-06-15,East,completed
+ORD-0101,Jack Nelson,Cloud Analytics Guide,Books,4,53.55,214.20,2024-05-31,East,completed
+ORD-0102,Isabella Garcia,Smartphone X,Electronics,3,943.95,2831.85,2024-03-03,West,completed
+ORD-0103,Michael Allen,Data Engineering 101,Books,3,39.90,119.70,2024-05-06,East,completed
+ORD-0104,Mason Martinez,Artisan Chocolate Box,Food,3,22.00,66.00,2024-03-12,East,completed
+ORD-0105,Evelyn Thompson,Cotton T-Shirt,Clothing,1,29.00,29.00,2024-04-14,West,completed
+ORD-0106,Isabella Garcia,Cloud Analytics Guide,Books,6,53.55,321.30,2024-04-24,North,completed
+ORD-0107,Isabella Garcia,Data Engineering 101,Books,6,42.00,252.00,2024-03-19,East,completed
+ORD-0108,Evelyn Thompson,Artisan Chocolate Box,Food,4,24.20,96.80,2024-03-25,East,completed
+ORD-0109,Lucas Anderson,Protein Bars Pack,Food,3,24.00,72.00,2024-01-31,South,completed
+ORD-0110,Daniel King,Running Shoes,Clothing,2,119.00,238.00,2024-05-03,East,pending
+ORD-0111,Grace Wright,Protein Bars Pack,Food,1,24.00,24.00,2024-03-16,South,completed
+ORD-0112,Mia Thomas,Laptop Pro 14,Electronics,6,1428.90,8573.40,2024-02-02,East,completed
+ORD-0113,Liam Chen,Protein Bars Pack,Food,6,24.00,144.00,2024-06-12,West,completed
+ORD-0114,Ava Patel,Protein Bars Pack,Food,4,25.20,100.80,2024-04-22,East,completed
+ORD-0115,Liam Chen,Organic Coffee Beans,Food,4,17.10,68.40,2024-01-17,West,completed
+ORD-0116,Abigail Lewis,Wireless Earbuds,Electronics,2,149.00,298.00,2024-05-24,East,completed
+ORD-0117,Isabella Garcia,4K Monitor,Electronics,5,418.95,2094.75,2024-06-04,South,pending
+ORD-0118,Harper Jackson,AI Product Playbook,Books,4,48.00,192.00,2024-05-30,West,completed
+ORD-0119,Henry Walker,Wireless Earbuds,Electronics,5,141.55,707.75,2024-02-23,South,completed
+ORD-0120,Noah Johnson,Running Shoes,Clothing,2,119.00,238.00,2024-05-21,North,completed
+ORD-0121,Elijah White,AI Product Playbook,Books,6,52.80,316.80,2024-04-30,East,completed
+ORD-0122,Mia Thomas,Protein Bars Pack,Food,6,25.20,151.20,2024-01-19,South,refunded
+ORD-0123,Logan Scott,Cotton T-Shirt,Clothing,4,27.55,110.20,2024-05-19,South,completed
+ORD-0124,Jack Nelson,Organic Coffee Beans,Food,2,17.10,34.20,2024-01-16,South,pending
+ORD-0125,Henry Walker,Protein Bars Pack,Food,4,22.80,91.20,2024-04-29,East,completed
+ORD-0126,Lucas Anderson,Cloud Analytics Guide,Books,4,48.45,193.80,2024-06-02,North,pending
+ORD-0127,Daniel King,Olive Oil Bottle,Food,5,16.00,80.00,2024-01-07,North,completed
+ORD-0128,Michael Allen,Laptop Pro 14,Electronics,6,1299.00,7794.00,2024-05-27,North,pending
+ORD-0129,Sophia Wilson,Cloud Analytics Guide,Books,5,53.55,267.75,2024-03-12,South,refunded
+ORD-0130,Elijah White,Cloud Analytics Guide,Books,1,53.55,53.55,2024-03-30,West,completed
+ORD-0131,Michael Allen,4K Monitor,Electronics,2,399.00,798.00,2024-04-15,West,completed
+ORD-0132,Harper Jackson,Wireless Earbuds,Electronics,4,141.55,566.20,2024-03-21,East,completed
+ORD-0133,Grace Wright,Data Engineering 101,Books,5,39.90,199.50,2024-06-17,West,completed
+ORD-0134,Mason Martinez,Artisan Chocolate Box,Food,5,23.10,115.50,2024-06-09,West,pending
+ORD-0135,Mason Martinez,Organic Coffee Beans,Food,5,18.00,90.00,2024-03-14,West,pending
+ORD-0136,James Martin,4K Monitor,Electronics,1,438.90,438.90,2024-03-02,South,completed
+ORD-0137,Ava Patel,Modern SQL Cookbook,Books,1,55.00,55.00,2024-01-30,West,refunded
+ORD-0138,Ella Hall,Denim Jacket,Clothing,4,89.00,356.00,2024-05-10,East,completed
+ORD-0139,James Martin,Cloud Analytics Guide,Books,2,53.55,107.10,2024-05-21,South,completed
+ORD-0140,Jack Nelson,Denim Jacket,Clothing,1,89.00,89.00,2024-04-16,East,refunded
+ORD-0141,Evelyn Thompson,Organic Coffee Beans,Food,1,18.00,18.00,2024-03-17,West,pending
+ORD-0142,Charlotte Harris,Cloud Analytics Guide,Books,3,51.00,153.00,2024-05-21,West,completed
+ORD-0143,Ethan Moore,Cotton T-Shirt,Clothing,6,29.00,174.00,2024-05-26,West,completed
+ORD-0144,Grace Wright,Modern SQL Cookbook,Books,1,55.00,55.00,2024-05-01,West,completed
+ORD-0145,Michael Allen,Denim Jacket,Clothing,4,84.55,338.20,2024-02-02,East,pending
+ORD-0146,Sebastian Baker,AI Product Playbook,Books,1,52.80,52.80,2024-04-26,North,pending
+ORD-0147,Elijah White,Denim Jacket,Clothing,1,93.45,93.45,2024-03-08,East,completed
+ORD-0148,Harper Jackson,Smartphone X,Electronics,3,988.90,2966.70,2024-04-07,East,completed
+ORD-0149,Chloe Adams,Cloud Analytics Guide,Books,5,48.45,242.25,2024-06-07,North,completed
+ORD-0150,Michael Allen,Protein Bars Pack,Food,2,22.80,45.60,2024-04-21,North,pending
+ORD-0151,Scarlett Young,4K Monitor,Electronics,4,399.00,1596.00,2024-06-26,East,refunded
+ORD-0152,Liam Chen,Olive Oil Bottle,Food,1,16.00,16.00,2024-04-01,East,completed
+ORD-0153,Isabella Garcia,Modern SQL Cookbook,Books,5,55.00,275.00,2024-02-13,South,completed
+ORD-0154,Sebastian Baker,Data Engineering 101,Books,5,42.00,210.00,2024-05-07,South,completed
+ORD-0155,Ella Hall,Organic Coffee Beans,Food,4,18.00,72.00,2024-06-19,North,pending
+ORD-0156,Charlotte Harris,Protein Bars Pack,Food,6,26.40,158.40,2024-02-10,North,completed
+ORD-0157,Amelia Taylor,Protein Bars Pack,Food,6,25.20,151.20,2024-06-25,East,completed
+ORD-0158,Mia Thomas,Cotton T-Shirt,Clothing,4,30.45,121.80,2024-01-28,South,completed
+ORD-0159,Amelia Taylor,Protein Bars Pack,Food,6,24.00,144.00,2024-01-06,West,completed
+ORD-0160,Abigail Lewis,Wireless Earbuds,Electronics,5,156.45,782.25,2024-03-14,South,completed
+ORD-0161,Amelia Taylor,Winter Hoodie,Clothing,6,59.00,354.00,2024-06-07,East,completed
+ORD-0162,Daniel King,Denim Jacket,Clothing,6,84.55,507.30,2024-06-09,North,completed
+ORD-0163,Charlotte Harris,Wireless Earbuds,Electronics,5,149.00,745.00,2024-02-03,North,refunded
+ORD-0164,Ethan Moore,Modern SQL Cookbook,Books,2,55.00,110.00,2024-02-03,East,completed
+ORD-0165,Jack Nelson,Organic Coffee Beans,Food,2,18.00,36.00,2024-05-03,East,pending
+ORD-0166,Ethan Moore,4K Monitor,Electronics,4,379.05,1516.20,2024-02-06,South,pending
+ORD-0167,Daniel King,Data Engineering 101,Books,5,42.00,210.00,2024-01-24,West,completed
+ORD-0168,Benjamin Clark,4K Monitor,Electronics,4,399.00,1596.00,2024-06-21,East,completed
+ORD-0169,Aria Green,Artisan Chocolate Box,Food,1,22.00,22.00,2024-04-30,North,completed
+ORD-0170,Benjamin Clark,Olive Oil Bottle,Food,5,16.00,80.00,2024-06-14,North,completed
+ORD-0171,Charlotte Harris,Protein Bars Pack,Food,6,25.20,151.20,2024-01-30,South,completed
+ORD-0172,Liam Chen,Protein Bars Pack,Food,4,22.80,91.20,2024-01-25,South,pending
+ORD-0173,Olivia Brown,Data Engineering 101,Books,4,42.00,168.00,2024-06-20,West,completed
+ORD-0174,Daniel King,Denim Jacket,Clothing,4,84.55,338.20,2024-05-05,West,refunded
+ORD-0175,Lucas Anderson,Wireless Earbuds,Electronics,6,149.00,894.00,2024-02-25,West,completed
+ORD-0176,Isabella Garcia,Artisan Chocolate Box,Food,1,22.00,22.00,2024-05-19,East,completed
+ORD-0177,Lucas Anderson,Cotton T-Shirt,Clothing,1,30.45,30.45,2024-01-24,South,completed
+ORD-0178,Henry Walker,Laptop Pro 14,Electronics,1,1299.00,1299.00,2024-03-03,South,pending
+ORD-0179,Mason Martinez,Smartphone X,Electronics,5,899.00,4495.00,2024-05-30,South,pending
+ORD-0180,Isabella Garcia,Olive Oil Bottle,Food,2,17.60,35.20,2024-01-01,East,pending
+ORD-0181,Olivia Brown,Denim Jacket,Clothing,5,89.00,445.00,2024-02-14,North,completed
+ORD-0182,Ava Patel,Denim Jacket,Clothing,1,89.00,89.00,2024-03-01,East,completed
+ORD-0183,Lucas Anderson,Wireless Earbuds,Electronics,2,156.45,312.90,2024-05-14,North,pending
+ORD-0184,James Martin,AI Product Playbook,Books,3,52.80,158.40,2024-05-31,North,completed
+ORD-0185,Isabella Garcia,Wireless Earbuds,Electronics,6,163.90,983.40,2024-03-18,West,completed
+ORD-0186,Ava Patel,Wireless Earbuds,Electronics,4,156.45,625.80,2024-04-19,North,completed
+ORD-0187,Jack Nelson,AI Product Playbook,Books,1,45.60,45.60,2024-03-23,South,completed
+ORD-0188,Lucas Anderson,Olive Oil Bottle,Food,4,17.60,70.40,2024-05-15,East,completed
+ORD-0189,Henry Walker,Modern SQL Cookbook,Books,1,52.25,52.25,2024-06-16,South,completed
+ORD-0190,Chloe Adams,Winter Hoodie,Clothing,4,59.00,236.00,2024-04-26,West,completed
+ORD-0191,Emma Davis,Olive Oil Bottle,Food,4,16.00,64.00,2024-06-19,East,completed
+ORD-0192,Olivia Brown,Cloud Analytics Guide,Books,1,48.45,48.45,2024-01-22,North,completed
+ORD-0193,Daniel King,Artisan Chocolate Box,Food,2,24.20,48.40,2024-01-16,East,completed
+ORD-0194,Elijah White,Artisan Chocolate Box,Food,6,23.10,138.60,2024-01-14,East,completed
+ORD-0195,Amelia Taylor,4K Monitor,Electronics,5,438.90,2194.50,2024-02-24,South,completed
+ORD-0196,Isabella Garcia,4K Monitor,Electronics,3,438.90,1316.70,2024-04-04,North,pending
+ORD-0197,Abigail Lewis,Winter Hoodie,Clothing,4,64.90,259.60,2024-06-08,North,completed
+ORD-0198,Michael Allen,Organic Coffee Beans,Food,1,18.00,18.00,2024-03-10,East,refunded
+ORD-0199,Amelia Taylor,Laptop Pro 14,Electronics,2,1299.00,2598.00,2024-05-24,West,completed
+ORD-0200,Daniel King,Laptop Pro 14,Electronics,1,1428.90,1428.90,2024-02-25,West,completed
