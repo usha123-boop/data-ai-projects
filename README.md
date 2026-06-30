@@ -64,7 +64,7 @@ Each project includes a section on adapting to production/cloud:
 
 ```bash
 # Clone the repo
-git clone https://github.com/techwithprateek/de-ai-projects.git
+git clone https://github.com/usha123=boop/data-ai-projects.git
 cd de-ai-projects
 
 # Start with project 01
